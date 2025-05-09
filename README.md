@@ -6,7 +6,7 @@ REG NO : 212224240103
 
 **Aim :**
 
-To  implement the DDA algorithm to draw a line using a c coding
+To  implement the DDA algorithm to draw a line using turbo c
 
 **Algorithms :**
 
